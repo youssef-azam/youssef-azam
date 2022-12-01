@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youssef-azam
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning coumputer and Artificial intelligence
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on many project or work
 - 📫 How to reach me linkidin 
 
 <!---
