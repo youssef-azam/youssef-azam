@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Azam</h1>
 <h3 align="center">A Data Scientist from Egypt</h3>
-<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuTlOV8JOAJ3x4XNRQUQXhnql7Oyjd-RehjTY39Ee&s>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-azam&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-azam" /> </p>
 
 - 🌱 I’m currently learning **Data Science $ ML $ DL$ Data Analysis**
